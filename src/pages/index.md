@@ -1,6 +1,6 @@
 ---
 permalink: /index.html
-title: 'Idea // Design // Code'
+title: 'bcmdr - dev blog'
 description: 'A development blog by Brett Commandeur'
 layout: 'home'
 blog:
