@@ -1,6 +1,6 @@
 ---
 permalink: /index.html
-title: 'bcmdr.dev'
+title: 'Idea // Design // Code'
 description: 'A development blog by Brett Commandeur'
 layout: 'home'
 blog:
@@ -10,4 +10,4 @@ blog:
 
 ## Siting the Web
 
-My name is Brett Commandeur and I enjoy long walks on the beach and building websites on my phone with AI. This development blog chronicles how I set up my workflow to do so, and what I've been able to make it with. 
+My name is Brett Commandeur and I enjoy long walks on the beach and building websites on my phone with AI. This development blog chronicles how I set up my workflow to do so, and what I've been able to create. 
