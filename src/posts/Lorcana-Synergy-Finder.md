@@ -10,7 +10,7 @@ tags:
 date: 2025-02-13 12:00:00
 ---
 
-Our objective was straightforward: build a simple web tool to search Disney Lorcana card synergies by scanning card **rules text** for multiple keywords (for example, **"draw item"**). Unlike traditional tools that filter by set or card type, this tool had to quickly identify potential card interactions based solely on their text. The key requirements were:
+Our objective was straightforward: build [a simple web tool](https://paist.surge.sh/?page=JFJdR0GciNSmhsJgzJlP) to search Disney Lorcana card synergies by scanning card **rules text** for multiple keywords (for example, **"draw item"**). Unlike traditional tools that filter by set or card type, this tool had to quickly identify potential card interactions based solely on their text. The key requirements were:
 
 - **Search within card text**, not just card names.
 - **Support multiple keywords**, like “draw” and “item.”
@@ -29,8 +29,7 @@ I built the entire prototype in **30 minutes on my phone**, leveraging:
 - **ChatGPT Models**:  
   - **o3-mini-high** was used for fast, straightforward code fixes.  
   - **GPT-4o** provided detailed explanations and handled more complex features like debouncing and API request cancellation.
-- **Paist**:  
-  This is my custom app that lets me paste code from ChatGPT. Paist saves the code to a Google Firebase database and generates a URL to load it in an iframe, enabling real-time testing on my phone.
+- **Paist**: This is [my custom app](https://paist.surge.sh) that lets me paste code from ChatGPT. Paist saves the code to a Google Firebase database and generates a URL to load it in an iframe, enabling real-time testing on my phone.
 
 ### 3. The Process
 
