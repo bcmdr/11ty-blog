@@ -1,17 +1,13 @@
 ---
 permalink: /index.html
-title: ' Eleventy Excellent'
-description: 'Eleventy starter using modern CSS, fluid type, fluid spacing, flexible layout and progressive enhancement.'
+title: 'bcmdr.dev'
+description: 'A development blog by Brett Commandeur'
 layout: 'home'
 blog:
-  title: 'Blog'
-  intro: "I'm showing the last 4 blog posts, but there might be more!"
+  title: 'Recent Posts'
+  intro: "What I've Been Working On Lately..."
 ---
 
-## An Eleventy starter
+## Siting the Web
 
-This (opiniated) [Eleventy](https://www.11ty.dev/) starter is based on [Andy Bell's](https://mastodon.social/@andy@bell.bz) talk 'Be the browser’s mentor, not its micromanager' and it's companion website buildexcellentwebsit.es.
-
-In his words, it's about hinting the browser rather than micromanaging it, using progressive enhancement, CSS layout, fluid type & spacing, as well as modern CSS features.
-
-This way we can shape frontends that look good to everyone, regardless of device, connection speed or context.
+My name is Brett Commandeur and I enjoy long walks on the beach and building websites on my phone with AI. This development blog chronicles how I set up my workflow to do so, and what I've been able to make it with. 
